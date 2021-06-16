@@ -1,0 +1,19 @@
+{
+  "name": "product",
+  "version": "1.0.0",
+  "description": "Provides a products service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaximilianoOliveiraFurtado/product.git"
+  },
+  "author": "Maximiliano de Oliveira Furtado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaximilianoOliveiraFurtado/product/issues"
+  },
+  "homepage": "https://github.com/MaximilianoOliveiraFurtado/product#readme"
+}
